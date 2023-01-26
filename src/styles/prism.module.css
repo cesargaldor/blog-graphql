@@ -1,0 +1,120 @@
+.blog {
+  padding: 1rem 0 2rem 0;
+}
+
+.blog h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 1.25rem 0 1rem 0;
+}
+.blog p {
+  font-size: 1.25rem;
+  line-height: 2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.blog code,
+.blog pre {
+  color: #000;
+  background: #f5f6fa;
+  text-shadow: 0 1px #fff;
+  font-family: monospace;
+  font-size: 1rem;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.75;
+  border-radius: 6px;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  padding: 0.5rem;
+}
+.blog code ::-moz-selection,
+.blog code::-moz-selection,
+.blog pre ::-moz-selection,
+.blog pre::-moz-selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+.blog code ::selection,
+.blog code::selection,
+.blog pre ::selection,
+.blog pre::selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+
+.blog pre {
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+}
+
+.blog .token.cdata,
+.blog .token.comment,
+.blog .token.doctype,
+.blog .token.prolog {
+  color: #708090;
+}
+.blog .token.punctuation {
+  color: #999;
+}
+.blog .token.namespace {
+  opacity: 0.7;
+}
+.blog .token.boolean,
+.blog .token.constant,
+.blog .token.deleted,
+.blog .token.number,
+.blog .token.property,
+.blog .token.symbol,
+.blog .token.tag {
+  color: #905;
+}
+.blog .token.attr-name,
+.blog .token.builtin,
+.blog .token.char,
+.blog .token.inserted,
+.blog .token.selector,
+.blog .token.string {
+  color: #690;
+}
+.blog .language-css .token.string,
+.blog .style .token.string,
+.blog .token.entity,
+.blog .token.operator,
+.blog .token.url {
+  color: #9a6e3a;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+.blog .token.atrule,
+.blog .token.attr-value,
+.blog .token.keyword {
+  color: #07a;
+}
+.blog .token.class-name,
+.blog .token.function {
+  color: #dd4a68;
+}
+.blog .token.important,
+.blog .token.regex,
+.blog .token.variable {
+  color: #e90;
+}
+.blog .token.bold,
+.blog .token.important {
+  font-weight: 700;
+}
+.blog .token.italic {
+  font-style: italic;
+}
+.blog .token.entity {
+  cursor: help;
+}
