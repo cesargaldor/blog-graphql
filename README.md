@@ -9,4 +9,4 @@ To get started, you need to create an account in Hygraph. Once you've created it
 
 Finally, for the queries to work, you need to create a model within the Hygraph schema. It'll be the post with all its properties.
 
-![image](https://i.ibb.co/9HMTgWW/captura.png)
+<img width="958" alt="captura" src="https://user-images.githubusercontent.com/22708570/214876358-c8f5e295-fa60-4315-b6d7-e756a6a59ec3.png">
